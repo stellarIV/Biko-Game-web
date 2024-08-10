@@ -1,0 +1,25 @@
+.container {
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  .score {
+    color: #3498db;
+    font-size: 24px;
+  }
+  
+  .high-score {
+    color: #e74c3c;
+    font-size: 18px;
+  }
+  
+  .game-over {
+    color: #e74c3c;
+    font-size: 24px;
+    margin-top: 20px;
+  }
+  
+  .gameCanvas {
+    background-color: #ecf0f1;
+    border: 3px solid #bdc3d9;
+  }
